@@ -2,38 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://euhwrirglab.github.io/rss-feed/</loc>
-    <lastmod>2025-09-11</lastmod>
+    <lastmod>2025-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://euhwrirglab.github.io/rss-feed/feed.xml</loc>
-    <lastmod>2025-09-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://euhwrirglab.github.io/rss-feed/feed-new.xml</loc>
-    <lastmod>2025-09-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://euhwrirglab.github.io/rss-feed/new-feed.xml</loc>
-    <lastmod>2025-09-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://euhwrirglab.github.io/rss-feed/one-feed.xml</loc>
-    <lastmod>2025-09-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-<url>
-    <loc>https://euhwrirglab.github.io/rss-feed/Vox-feed.xml</loc>
-    <lastmod>2025-09-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
   </url>
 </urlset>
